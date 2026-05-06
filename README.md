@@ -8,4 +8,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/kingkaminseo/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0178-rank-scores](https://github.com/kingkaminseo/LeetCode/tree/main/0178-rank-scores/) | Medium |
+| [0610-triangle-judgement](https://github.com/kingkaminseo/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
