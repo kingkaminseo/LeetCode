@@ -17,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/kingkaminseo/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/kingkaminseo/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/kingkaminseo/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kingkaminseo/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
