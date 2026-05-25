@@ -20,4 +20,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kingkaminseo/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/kingkaminseo/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/kingkaminseo/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/kingkaminseo/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
 <!---LeetCode Topics End-->
