@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1075-project-employees-i](https://github.com/kingkaminseo/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/kingkaminseo/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/kingkaminseo/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kingkaminseo/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kingkaminseo/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
