@@ -28,9 +28,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/kingkaminseo/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kingkaminseo/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kingkaminseo/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/kingkaminseo/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/kingkaminseo/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 <!---LeetCode Topics End-->
