@@ -4,7 +4,7 @@ function totalWaviness(num1: number, num2: number): number {
 
         const waveArr = i.toString().split('').map(Number);
         for (let j = 0; j < waveArr.length; j++) {
-            if (j === 0 || j === waveArr.length) {
+            if (j === 0 || j === waveArr.length -1) {
                 continue;
             }
             if (waveArr[j -1] < waveArr[j] && waveArr[j] > waveArr[j + 1]
