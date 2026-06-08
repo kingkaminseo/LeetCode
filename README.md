@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/kingkaminseo/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kingkaminseo/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kingkaminseo/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kingkaminseo/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kingkaminseo/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kingkaminseo/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kingkaminseo/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 <!---LeetCode Topics End-->
